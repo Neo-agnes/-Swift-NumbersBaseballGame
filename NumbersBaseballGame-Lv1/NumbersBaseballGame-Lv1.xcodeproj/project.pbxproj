@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		548998342BA3E67B005CC10C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 548998332BA3E67B005CC10C /* main.swift */; };
+		5460DC2D2BA3ECC800AC554D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5460DC2C2BA3ECC800AC554D /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		5489982E2BA3E67B005CC10C /* CopyFiles */ = {
+		5460DC272BA3ECC800AC554D /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -23,12 +23,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		548998302BA3E67B005CC10C /* NumbersBaseballGame */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = NumbersBaseballGame; sourceTree = BUILT_PRODUCTS_DIR; };
-		548998332BA3E67B005CC10C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		5460DC292BA3ECC800AC554D /* NumbersBaseballGame-Lv1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "NumbersBaseballGame-Lv1"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5460DC2C2BA3ECC800AC554D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		5489982D2BA3E67B005CC10C /* Frameworks */ = {
+		5460DC262BA3ECC800AC554D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -38,66 +38,66 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		548998272BA3E67A005CC10C = {
+		5460DC202BA3ECC800AC554D = {
 			isa = PBXGroup;
 			children = (
-				548998322BA3E67B005CC10C /* NumbersBaseballGame */,
-				548998312BA3E67B005CC10C /* Products */,
+				5460DC2B2BA3ECC800AC554D /* NumbersBaseballGame-Lv1 */,
+				5460DC2A2BA3ECC800AC554D /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		548998312BA3E67B005CC10C /* Products */ = {
+		5460DC2A2BA3ECC800AC554D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				548998302BA3E67B005CC10C /* NumbersBaseballGame */,
+				5460DC292BA3ECC800AC554D /* NumbersBaseballGame-Lv1 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		548998322BA3E67B005CC10C /* NumbersBaseballGame */ = {
+		5460DC2B2BA3ECC800AC554D /* NumbersBaseballGame-Lv1 */ = {
 			isa = PBXGroup;
 			children = (
-				548998332BA3E67B005CC10C /* main.swift */,
+				5460DC2C2BA3ECC800AC554D /* main.swift */,
 			);
-			path = NumbersBaseballGame;
+			path = "NumbersBaseballGame-Lv1";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5489982F2BA3E67B005CC10C /* NumbersBaseballGame */ = {
+		5460DC282BA3ECC800AC554D /* NumbersBaseballGame-Lv1 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 548998372BA3E67B005CC10C /* Build configuration list for PBXNativeTarget "NumbersBaseballGame" */;
+			buildConfigurationList = 5460DC302BA3ECC800AC554D /* Build configuration list for PBXNativeTarget "NumbersBaseballGame-Lv1" */;
 			buildPhases = (
-				5489982C2BA3E67B005CC10C /* Sources */,
-				5489982D2BA3E67B005CC10C /* Frameworks */,
-				5489982E2BA3E67B005CC10C /* CopyFiles */,
+				5460DC252BA3ECC800AC554D /* Sources */,
+				5460DC262BA3ECC800AC554D /* Frameworks */,
+				5460DC272BA3ECC800AC554D /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = NumbersBaseballGame;
-			productName = NumbersBaseballGame;
-			productReference = 548998302BA3E67B005CC10C /* NumbersBaseballGame */;
+			name = "NumbersBaseballGame-Lv1";
+			productName = "NumbersBaseballGame-Lv1";
+			productReference = 5460DC292BA3ECC800AC554D /* NumbersBaseballGame-Lv1 */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		548998282BA3E67A005CC10C /* Project object */ = {
+		5460DC212BA3ECC800AC554D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1530;
 				LastUpgradeCheck = 1530;
 				TargetAttributes = {
-					5489982F2BA3E67B005CC10C = {
+					5460DC282BA3ECC800AC554D = {
 						CreatedOnToolsVersion = 15.3;
 					};
 				};
 			};
-			buildConfigurationList = 5489982B2BA3E67A005CC10C /* Build configuration list for PBXProject "NumbersBaseballGame" */;
+			buildConfigurationList = 5460DC242BA3ECC800AC554D /* Build configuration list for PBXProject "NumbersBaseballGame-Lv1" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -105,29 +105,29 @@
 				en,
 				Base,
 			);
-			mainGroup = 548998272BA3E67A005CC10C;
-			productRefGroup = 548998312BA3E67B005CC10C /* Products */;
+			mainGroup = 5460DC202BA3ECC800AC554D;
+			productRefGroup = 5460DC2A2BA3ECC800AC554D /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5489982F2BA3E67B005CC10C /* NumbersBaseballGame */,
+				5460DC282BA3ECC800AC554D /* NumbersBaseballGame-Lv1 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		5489982C2BA3E67B005CC10C /* Sources */ = {
+		5460DC252BA3ECC800AC554D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				548998342BA3E67B005CC10C /* main.swift in Sources */,
+				5460DC2D2BA3ECC800AC554D /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		548998352BA3E67B005CC10C /* Debug */ = {
+		5460DC2E2BA3ECC800AC554D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -190,7 +190,7 @@
 			};
 			name = Debug;
 		};
-		548998362BA3E67B005CC10C /* Release */ = {
+		5460DC2F2BA3ECC800AC554D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -245,7 +245,7 @@
 			};
 			name = Release;
 		};
-		548998382BA3E67B005CC10C /* Debug */ = {
+		5460DC312BA3ECC800AC554D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -254,7 +254,7 @@
 			};
 			name = Debug;
 		};
-		548998392BA3E67B005CC10C /* Release */ = {
+		5460DC322BA3ECC800AC554D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -266,25 +266,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5489982B2BA3E67A005CC10C /* Build configuration list for PBXProject "NumbersBaseballGame" */ = {
+		5460DC242BA3ECC800AC554D /* Build configuration list for PBXProject "NumbersBaseballGame-Lv1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				548998352BA3E67B005CC10C /* Debug */,
-				548998362BA3E67B005CC10C /* Release */,
+				5460DC2E2BA3ECC800AC554D /* Debug */,
+				5460DC2F2BA3ECC800AC554D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		548998372BA3E67B005CC10C /* Build configuration list for PBXNativeTarget "NumbersBaseballGame" */ = {
+		5460DC302BA3ECC800AC554D /* Build configuration list for PBXNativeTarget "NumbersBaseballGame-Lv1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				548998382BA3E67B005CC10C /* Debug */,
-				548998392BA3E67B005CC10C /* Release */,
+				5460DC312BA3ECC800AC554D /* Debug */,
+				5460DC322BA3ECC800AC554D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 548998282BA3E67A005CC10C /* Project object */;
+	rootObject = 5460DC212BA3ECC800AC554D /* Project object */;
 }
